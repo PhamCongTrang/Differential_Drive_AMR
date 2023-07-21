@@ -1,6 +1,6 @@
 # ddrobot_src
->. ddrobot is stand for Differential Drive Robot
-**Reference: Lino Robot**
+> ddrobot is stand for Differential Drive Robot
+## Reference: Lino Robot
 https://linorobot.org/
 https://github.com/linorobot/linorobot
 # 1. arduino_node
